@@ -1,5 +1,9 @@
 # Laravel CLI
 
+![Build Status](https://img.shields.io/docker/build/itsmattburgess/docker-laravel.svg)
+![Downloads](https://img.shields.io/docker/pulls/itsmattburgess/docker-laravel.svg)
+![Licence](https://img.shields.io/github/license/itsmattburgess/docker-laravel.svg)
+
 This is a Docker image which builds a CLI environment for operating Laravel applications in CI/CD pipelines. It does not serve the site and as such does not include a web server. I use it purely to run tests for my laravel applications.
 
 ## Installed extensions
